@@ -9,7 +9,7 @@
 
 	<br><br>
 
-	<a href="projects/01-30.html">self portrait</a><br>
+	<a href="projects/01-30/v0.1.html">self portrait</a><br>
 	<a>[Homework] Landscape</a>
 
 </body>
