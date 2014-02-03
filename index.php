@@ -9,8 +9,10 @@
 
 	<br><br>
 
-	<a href="projects/01-30/v0.1.html">self portrait</a><br>
-	<a>[Homework] Landscape</a>
+	<a href="projects/01-30/v0.1.html">
+		[Classwork] Self Portrait</a><br>
+	<a href="projects/hw1/Lanscape_Final.html">
+		[Homework] Landscape</a><br>
 
 </body>
 </html>
