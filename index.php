@@ -11,7 +11,7 @@
 
 	<a href="projects/01-30/v0.1.html">
 		[Classwork] Self Portrait</a><br>
-	<a href="projects/hw1/Lanscape_Final.html">
+	<a href="projects/hw1/Landscape_Final.html">
 		[Homework] Landscape</a><br>
 
 </body>
