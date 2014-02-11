@@ -13,6 +13,8 @@
 		[Classwork] Self Portrait</a><br>
 	<a href="projects/hw1/Landscape_Final.html">
 		[Homework] Landscape</a><br>
+	<a href="projects/hw2/Build.html">
+		[Homework] Rube Goldberg Machine</a><br>
 
 </body>
 </html>
