@@ -15,8 +15,8 @@
 		[Homework] Landscape</a><br>
 	<a href="projects/hw2/Build.html">
 		[Homework] Rube Goldberg Machine</a><br>
-	<a href="">
-		[Homework] </a><br>
+	<a href="projects/hw3/Builds.html">
+		[Homework] Text Adventure</a><br>
 
 </body>
 </html>
