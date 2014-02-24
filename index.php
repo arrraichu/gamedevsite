@@ -17,6 +17,8 @@
 		[Homework] Rube Goldberg Machine</a><br>
 	<a href="projects/hw3/Builds.html">
 		[Homework] Text Adventure</a><br>
+	<a href="projects/hw4/Build.html">
+		[Homework] Character</a><br>
 
 </body>
 </html>
